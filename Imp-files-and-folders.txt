@@ -1,0 +1,11 @@
+Most of the important files and folders are stored in github 
+
+The plant disease detection folder is stored in a cloud called Icedrive ,below is the link for the same 
+
+https://icedrive.net/dashboard/#/cloud
+
+The capacity of the cloud is 10GB , the file that's stored is 9.7GB 
+
+Email ID :dhanushu_2009@rediffmail.com
+
+Password : Aunkiz@1 
